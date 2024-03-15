@@ -4,3 +4,6 @@
 [submodule "FractionJV"]
 	path = FractionJV
 	url = https://www.github.com/GeorgeSchafer/FractionJV.git
+[submodule "FractionJS"]
+	path = FractionJS
+	url = https://www.github.com/GeorgeSchafer/FractionJS.git
