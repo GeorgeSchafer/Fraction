@@ -7,3 +7,6 @@
 [submodule "FractionJS"]
 	path = FractionJS
 	url = https://www.github.com/GeorgeSchafer/FractionJS.git
+[submodule "FractionCS"]
+	path = FractionCS
+	url = https://github.com/GeorgeSchafer/FractionCS.git
