@@ -73,20 +73,3 @@ git push
 git checkout dev
 
 cd ..
-# Project root
-
-git add .
-git commit . -m "Releasing changes"
-git push
-
-git checkout main
-git add .
-git commit . -m "Releasing changes"
-git push
-
-git checkout release
-git add .
-git commit . -m "Releasing changes"
-git push
-
-git checkout dev
